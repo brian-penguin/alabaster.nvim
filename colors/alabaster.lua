@@ -400,7 +400,7 @@ else
     vim.g.terminal_color_15 = "#f7f7f7"
 
     -- colors
-    local bg = "#f7f7f7"
+    local bg = "#faf4ed"
     local fg = "#000000"
     local punct_fg = "#777777"
     local def_fg = "#325cc0"
